@@ -39,7 +39,7 @@ median_rooms_without_NA<- median(rooms, na.rm = TRUE)
 # Therefore, when excluding this data from the median calculations, the median is: 2
 
 # 4) Take a screenshot of your RStudio interface
-
+Se den anden fil i mit repository
 
 
 
