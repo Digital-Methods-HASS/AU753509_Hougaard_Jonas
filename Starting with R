@@ -41,7 +41,9 @@ median_rooms_without_NA<- median(rooms, na.rm = TRUE)
 # 4) Take a screenshot of your RStudio interface
 Se den anden fil i mit repository
 
-
+#Interviews
+read_csv("data/SAFI_clean.csv")
+interview <- read_csv("data/SAFI_clean.csv")
 
 
 
